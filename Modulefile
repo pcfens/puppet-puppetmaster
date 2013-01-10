@@ -8,4 +8,4 @@ description 'Module to install and configure a Puppet Master'
 project_page 'https://github.com/fsalum/puppet-puppetmaster'
 
 ## Add dependencies, if any:
-dependency 'cprice404/inifile', '0.0.x'
+dependency 'cprice404/inifile'
